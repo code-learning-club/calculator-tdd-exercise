@@ -6,8 +6,8 @@
   "scripts": {
     "test": "mocha"
   },
-  "author": "",
-  "license": "ISC",
+  "author": "Désiré-Lévi Kouablan <desire;levi@gmail.com>",
+  "license": "MIT",
   "devDependencies": {
     "jshint": "^2.9.6",
     "mocha": "^5.2.0"
