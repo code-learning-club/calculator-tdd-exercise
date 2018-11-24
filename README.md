@@ -56,5 +56,5 @@ npm test
 Pour executer le programme en CLI, executer le programme CLI, exécuter la commande
 
 ```bash
-npm calc.js
+node calc.js
 ```
