@@ -25,10 +25,10 @@ rl.question('Entrez un premier nombre: ', (x) => {
   Enter your choice: `, (choice) => {
             switch (choice) {
                 case '1':
-                    console.log(`La somme de ${x} et ${y} est ${operations.add(x, y)}.`);
+                    console.log(`La somme de ${x} et ${y} est ${operations.additioner(x, y)}.`);
                     break;
                 case '2':
-                    console.log(`La difference entre ${x} et ${y} est ${operations.subtract(x, y)}.`);
+                    console.log(`La difference entre ${x} et ${y} est ${operations.soustraire(x, y)}.`);
                     break;
                 default:
                     console.log('Veuillez redémarrer le programme et choisir un nombre entre 1 et 2');
