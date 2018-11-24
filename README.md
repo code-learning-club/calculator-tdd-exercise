@@ -42,7 +42,7 @@ Point bonus si vous modifier l'application pour afficher les operations que vous
 Une fois que vous avez NodeJS, clonez le dépôt et installez les dépendances comme indiqué ci dessous et c'est parti.
 
 ```bash
-git clone git@github.com:adeielevate/calculator-tdd-exercise.git
+git clone https://github.com/adeielevate/calculator-tdd-exercise
 cd calculator-tdd-exercise
 npm install
 ```
